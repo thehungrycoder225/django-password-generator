@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "pwgenv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
+}
